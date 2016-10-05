@@ -1,2 +1,2 @@
 # hello-world
-This is a bit of text.
+## This is a markdown file
